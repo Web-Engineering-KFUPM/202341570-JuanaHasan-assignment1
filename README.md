@@ -42,6 +42,7 @@ A detailed explanation of AI usage is available in:
 
 `docs/ai-usage-report.md`
 
+
 ## Project Structure
 
 ```text
