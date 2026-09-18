@@ -23,23 +23,6 @@ The website introduces me, presents some of my projects, and provides a contact 
 - CSS Flexbox
 - Git and GitHub
 
-## Project Structure
-
-```text
-├── assets/
-│   └── images/
-│       ├── project1.png
-│       └── project2.png
-├── css/
-│   └── styles.css
-├── docs/
-│   ├── ai-usage-report.md
-│   └── technical-documentation.md
-├── js/
-│   └── script.js
-├── index.html
-└── README.md
-
 ## How to Run the Project
 
 1. Clone or download this repository.
@@ -58,3 +41,20 @@ AI tools were used during the development of this assignment to help breakdown t
 A detailed explanation of AI usage is available in:
 
 `docs/ai-usage-report.md`
+
+## Project Structure
+
+```text
+├── assets/
+│   └── images/
+│       ├── project1.png
+│       └── project2.png
+├── css/
+│   └── styles.css
+├── docs/
+│   ├── ai-usage-report.md
+│   └── technical-documentation.md
+├── js/
+│   └── script.js
+├── index.html
+└── README.md
